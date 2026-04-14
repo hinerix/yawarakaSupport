@@ -1,3 +1,3 @@
 :HL["/yawarakaSupport/_next/static/chunks/09z1f6ou_voy8.css","style"]
 :HL["/yawarakaSupport/_next/static/media/GenJyuuGothicL_Normal-s.p.183jwyx2ngar5.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lr2vpOkmurNAU-TkbgOc2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terms","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mIvGyR1LApdxn-PVzw3yB"}
