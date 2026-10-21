@@ -2,4 +2,4 @@
 :HL["/yawarakaSupport/_next/static/media/GenJyuuGothicL_Normal-s.p.44hafk11qc5tp.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"terms","h":96,"c":"$Q2"}]]
-0:{"b":"O2EYVu_Qqg-6RpcMgu8Vh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"bq6AvQlZqLO3cp8h_kFgt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
